@@ -1,3 +1,5 @@
+Obs: este projeto não foi feito por mim, este repositório é um exercício de deploy no Github Pages com um projeto pronto da Cubos Academy de exemplo.
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Desafio | Front-end - Módulo 1
